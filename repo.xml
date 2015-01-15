@@ -7,7 +7,7 @@
     <plugin name="BookmarkHistory" version="1.09" minTarget="7.5" maxTarget="9.*">
       <title lang="EN">Plugins from M. Johnen</title>
       <desc lang="EN">Bookmark Plugin - Adds the possibility to bookmark audio files. Useful for radio dramas and audio books</desc>
-      <url>http://drive.google.com/uc?export=download&id=0B0TtVazO7JZKMDVoSDZjSTIydDQ</url>
+      <url>http://bookmarkhistory.googlecode.com/svn/bookmarkhistory.zip</url>
       <creator>Martin Johnen</creator>
       <email>m.johnen@gmail.com</email>
       <sha>8ea165d24fffe743eb34744ddd70c71905024ade</sha>

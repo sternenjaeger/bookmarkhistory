@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extensions>
+  <details>
+    <title lang="EN">plugins from M. Johnen</title>
+  </details>
+  <plugins>
+    <plugin name="BookmarkHistory" version="1.09" minTarget="7.5" maxTarget="9.*">
+      <title lang="EN">Plugins from M. Johnen</title>
+      <desc lang="EN">Bookmark Plugin - Adds the possibility to bookmark audio files. Useful for radio dramas and audio books</desc>
+      <url>https://drive.google.com/uc?export=download&id=0B0TtVazO7JZKMDVoSDZjSTIydDQ</url>
+      <creator>Martin Johnen</creator>
+      <email>m.johnen@gmail.com</email>
+      <sha>8ea165d24fffe743eb34744ddd70c71905024ade</sha>
+      <link>https://code.google.com/p/bookmarkhistory/</link>
+    </plugin>
+  </plugins>
+</extensions>

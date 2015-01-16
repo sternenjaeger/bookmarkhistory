@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <extensions>
   <details>
-    <title lang="EN">plugins from M. Johnen</title>
+    <title lang="EN">Plugins from M. Johnen</title>
   </details>
   <plugins>
     <plugin name="BookmarkHistory" version="1.11" minTarget="7.6" maxTarget="9.*">
@@ -10,7 +10,7 @@
       <url>http://bookmarkhistory.googlecode.com/svn/bookmarkhistory.zip</url>
       <creator>Martin Johnen</creator>
       <email>m.johnen@gmail.com</email>
-      <sha>9ff7cbb85b11d5d75f64fe7284c38515836acd57</sha>
+      <sha>29b188557764743814f3422ab0a64b32db750a4c</sha>
       <link>http://code.google.com/p/bookmarkhistory/</link>
     </plugin>
   </plugins>

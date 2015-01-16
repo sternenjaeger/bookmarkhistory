@@ -5,7 +5,7 @@
   </details>
   <plugins>
     <plugin name="BookmarkHistory" version="1.1.6" minTarget="7.6" maxTarget="9.*">
-      <title lang="EN">Plugins from M. Johnen</title>
+      <title lang="EN">Bookmarks</title>
       <desc lang="EN">Bookmark Plugin - Adds the possibility to bookmark audio files. Useful for radio dramas and audio books</desc>
       <url>http://bookmarkhistory.googlecode.com/svn/bookmarkhistory.zip</url>
       <creator>Martin Johnen</creator>

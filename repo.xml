@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <extensions>
   <details>
-    <title lang="EN">Plugins from M. Johnen</title>
+    <title lang="EN">Audio bookmarks</title>
   </details>
   <plugins>
     <plugin name="BookmarkHistory" version="1.1.2" minTarget="7.6" maxTarget="9.*">

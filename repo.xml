@@ -4,18 +4,13 @@
     <title lang="EN">Audio bookmarks</title>
   </details>
   <plugins>
-    <plugin name="BookmarkHistory" version="1.1.7" minTarget="7.6" maxTarget="9.*">
+    <plugin name="BookmarkHistory" version="1.1.8" minTarget="7.6" maxTarget="9.*">
       <title lang="EN">Bookmarks</title>
-      <desc lang="EN">Bookmark Plugin - Adds the possibility to set bookmarks for albums you recently listened to. Useful for radio dramas and audio books.
-	  You can define the genres you want this plugin to monitor in the plugins settings menu.
-	  </desc>
-      <desc lang="DE">Lesezeichen Plugin - Erstellt "Lesezeichen" (oder besser "Hörzeichen") für Alben. Nützlich für Hörspiele und Hörbücher.
-	  Sie können in den Einstellungen des Plugins festlegen für welche Genres das Plugin aktiv sein soll.
-	  </desc>
-      <url>http://bookmarkhistory.googlecode.com/svn/bookmarkhistory-1.1.7.zip</url>
+      <desc lang="EN">Bookmark Plugin - Adds the possibility to bookmark audio files. Useful for radio dramas and audio books</desc>
+      <url>http://bookmarkhistory.googlecode.com/svn/bookmarkhistory-1.1.8.zip</url>
       <creator>Martin Johnen</creator>
       <email>m.johnen@gmail.com</email>
-      <sha>dfa730067c0923a54700eb9c7f6cd4a08c0f0c3c</sha>
+      <sha>484a8d769024793e7f0da3adb67fdfa10f32600b</sha>
       <link>http://code.google.com/p/bookmarkhistory/</link>
     </plugin>
   </plugins>

@@ -4,13 +4,13 @@
     <title lang="EN">Audio bookmarks</title>
   </details>
   <plugins>
-    <plugin name="BookmarkHistory" version="1.1.9" minTarget="7.6" maxTarget="9.*">
+    <plugin name="BookmarkHistory" version="1.1.10" minTarget="7.6" maxTarget="9.*">
       <title lang="EN">Bookmarks</title>
       <desc lang="EN">Bookmark Plugin - Adds the possibility to bookmark audio files. Useful for radio dramas and audio books</desc>
-      <url>http://bookmarkhistory.googlecode.com/svn/bookmarkhistory-1.1.9.zip</url>
+      <url>http://bookmarkhistory.googlecode.com/svn/bookmarkhistory-1.1.10.zip</url>
       <creator>Martin Johnen</creator>
       <email>m.johnen@gmail.com</email>
-      <sha>9a8997d2c17b90eb1a0071b91ec526a6659c3a8e</sha>
+      <sha>ec4ce3343daa2ecbc27f3e5b44c7348ee74d48cc</sha>
       <link>http://code.google.com/p/bookmarkhistory/</link>
     </plugin>
   </plugins>

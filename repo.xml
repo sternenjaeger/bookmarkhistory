@@ -9,22 +9,24 @@
       <title lang="EN">Bookmarks</title>
       <desc lang="EN">Bookmark Plugin - Adds the possibility to bookmark audio files. Useful for radio dramas and audio books.</desc>
       <desc lang="DE">Lesezeichen für kürzlich gehörte Alben. Nützlich für Hörspiele und Hörbücher.</desc>
-      <url>http://bookmarkhistory.googlecode.com/svn/bookmarkhistory-1.1.10.zip</url>
+      <url>https://github.com/sternenjaeger/bookmarkhistory/blob/master/bookmarkhistory-1.1.9.zip?raw=true
+      	
+      </url>
       <creator>Martin Johnen</creator>
       <email>m.johnen@gmail.com</email>
       <sha>ec4ce3343daa2ecbc27f3e5b44c7348ee74d48cc</sha>
-      <link>http://code.google.com/p/bookmarkhistory/</link>
+      <link>https://github.com/sternenjaeger/bookmarkhistory/tree/master</link>
     </plugin>
 	
     <plugin name="DisableShuffle" version="1.0" minTarget="7.6" maxTarget="9.*">
       <title lang="EN">Disable Shuffle</title>
       <desc lang="EN">Allows to disable shuffle, repeat and "add to playlist" mode for all clients. You can allow or disable each of these modes in the plugin settings.</desc>
       <desc lang="DE">Ermöglicht es die Shuffle, Repeat und "an Playliste anhängen"-Modi für alle Clients zu sperren. Sie können jeden dieser Modi in den Einstellungen des Plugins getrennt zulassen oder sperren.</desc>
-      <url>http://bookmarkhistory.googlecode.com/svn/disableshuffle-1.0.zip</url>
+      <url>https://github.com/sternenjaeger/bookmarkhistory/blob/master/disableshuffle-1.0.zip?raw=true</url>
       <creator>Martin Johnen</creator>
       <email>m.johnen@gmail.com</email>
       <sha>d653f056700ae585b5ef21379ec5479ba3b115f9</sha>
-      <link>http://code.google.com/p/bookmarkhistory/</link>
+      <link>https://github.com/sternenjaeger/bookmarkhistory/tree/master/</link>
     </plugin>
 	
 	
